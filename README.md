@@ -1,5 +1,4 @@
-<h1> Eridian_companion_bot_Eleni._.<h1>
-<h1>This is an H1 title</h1>
+<h1># Eridian_companion_bot_Eleni._.#<h1>
 WATCHED PROJECT HAIL MARRY and wanted my own Eridian bot ROCKY ! Meet Eleni [ torch in Greek].This robot has 5 legs and at least 8 degrees of freedom, it has a OLED showing cute faces, temp and custom information. Has a remote control mode that is linked to a controller but also could just be a desk top buddy with automatic responses to temp change, tap on the head and time. Would make your life a bit more cozy and whimsy:))))
 
 # how to form bond with Eleni? [how to use]
