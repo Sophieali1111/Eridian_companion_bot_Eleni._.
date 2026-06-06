@@ -13,7 +13,7 @@ Well I really liked the movie project hail marry and i understand that everyone 
 
 
 # Zine page 
-<img width="1410" height="2000" alt="PROJECT" src="https://github.com/user-attachments/assets/15ba1f20-f29c-46ed-b73d-ca1fc9eb8d78" />
+<img width="1410" height="2000" alt="PROJECT (2)" src="https://github.com/user-attachments/assets/70602a4f-5f0b-4a4e-81eb-e8422805d240" />
 
 # Wiring 
 Features an esp32 dev board and charges on a 3.3 charging board with a lipo battery and a step up powering components - 10 micro servos, OLED display, temp/Humidity sensor, touch sensor and also some resistors, schottky and a capacitor. seen by wiring diagram below
