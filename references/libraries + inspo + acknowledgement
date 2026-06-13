@@ -1,0 +1,15 @@
+ References
+https://github.com/EDISON-SCIENCE-CORNER/DESKBUDDY-1.0/blob/main/component%20list.jpeg - for inspo on how to wire the bot and what parts to have 
+https://www.youtube.com/watch?v=1UDsWkcQZhc&t=19s - idea for design 
+https://au.pinterest.com/pin/9781324187475851/ - zine design inspo 
+https://github.com/dorianborian/sesame-robot/tree/main - more idears 
+https://www.google.com/search?q=project+hailmary&sca_esv=8851eed9988879d0&rlz=1C1VDKB_en-GBAU987AU987&sxsrf=ANbL-n5IX9YNH1KQD_kR1cXFiHobvcv0bw%3A1780728834734&ei=AsQjauSxLIqa0-kPg6_v0QU&biw=1504&bih=868&ved=0ahUKEwjkuortg_KUAxUKzTQHHYPXO1oQ4dUDCBA&uact=5&oq=project+hailmary&gs_lp=Egxnd3Mtd2l6LXNlcnAiEHByb2plY3QgaGFpbG1hcnkyBxAuGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyFhAuGIAEGAoYlwUY3AQY3gQY4ATYAQFI-Q1Q-ARY-ARwAXgBkAEAmAH-A6AB_gOqAQM1LTG4AQPIAQD4AQGYAgKgArcEwgIKEAAYRxjWBBiwA8ICDRAAGIAEGIoFGEMYsAPCAg4QABjkAhjWBBiwA9gBAcICExAuGEMYgAQYigUYyAMYsAPYAQHCAhMQLhiABBiKBRhDGMgDGLAD2AEBmAMA4gMFEgExIECIBgGQBhO6BgYIARABGAmSBwUxLjQtMaAHsgqyBwM0LTG4B5oEwgcDNC0yyAcvgAgB&sclient=gws-wiz-serp - banga movie and used the type of aliens in the movie a a source of inspirations 
+https://github.com/playfultechnology/esp32-eyes/blob/main/README.md -OLED Libary 
+https://github.com/adafruit/dht-sensor-library - DHT libary 
+https://docs.arduino.cc/learn/built-in-libraries/software-serial/ servo library 
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json  -  library esp 32Adafruit SSD1306  library 
+https://randomnerdtutorials.com/esp32-pinout-reference-gpios/ pinout references 
+https://github.com/espressif/arduino-esp32/tree/master/libraries/WebServer - esp servo library 
+https://adafruit.github.io/Adafruit_SSD1306/html/class_adafruit___s_s_d1306.html - display fuctoion
+https://www.arduino.cc/reference/en/libraries/servo/write/ - servo write 
+https://www.arduino.cc/reference/en/language/functions/time/millis/ timing reference 
