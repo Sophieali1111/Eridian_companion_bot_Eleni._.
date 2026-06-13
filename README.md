@@ -56,7 +56,7 @@ Features an esp32 dev board and charges on a 3.3 charging board with a lipo batt
 <img width="9923" height="7009" alt="robot assem (12)" src="https://github.com/user-attachments/assets/a947e478-4ffb-43e6-b545-6709ae106573" />
 
 # Firmware 
-- go to https://github.com/Sophieali1111/Eridian_companion_bot_Eleni._./tree/main/Firm%20ware%20
+- go to ( https://github.com/Sophieali1111/Eridian_companion_bot_Eleni._./blob/main/Firm%20ware%20/firmware )
 - and refrences and liabaries used go to 
 
 
