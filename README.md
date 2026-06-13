@@ -57,7 +57,7 @@ Features an esp32 dev board and charges on a 3.3 charging board with a lipo batt
 
 # Firmware 
 - go to ( https://github.com/Sophieali1111/Eridian_companion_bot_Eleni._./blob/main/Firm%20ware%20/firmware )
-- and refrences and liabaries used go to 
+- and refrences and liabaries used go to                                                                                                                       ( https://github.com/Sophieali1111/Eridian_companion_bot_Eleni._./blob/main/references/libraries%20%2B%20inspo%20%2B%20acknowledgement )
 
 
 
