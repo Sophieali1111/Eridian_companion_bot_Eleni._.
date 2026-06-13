@@ -18,6 +18,8 @@ Eleni can connect to mobile with its microo controller(ESP32DEV),It can tell you
 # Why make an eridian?[Eleni for me]
 Well I really liked the movie project hail marry and i understand that everyone really likes it but i really felt somthing when rocky said to grace "Grace say Grace will die. Rocky fix. Grace go home,"[started bawling  my eyes out:(] So as you do i wanted to make a little rocky just mine, to "fist my bump".I have always also wanted my own robot companion, stupid but in all the scifi movies they have a superintellegent robot friend eg. tars interstella.Make your personal eridian(alian robot)! to keep you company and add a bit more whimsy to your life 
 
+# How to make ?
+go to https://github.com/Sophieali1111/Eridian_companion_bot_Eleni._./blob/main/making%20%2B%20mounting%20%2B%20manufacturing
 
 # Zine page 
 <img width="1410" height="2000" alt="PROJECT (5)" src="https://github.com/user-attachments/assets/a780b9e0-67e6-488f-b549-9e2316581eef" />
