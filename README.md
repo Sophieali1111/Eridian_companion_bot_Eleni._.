@@ -25,8 +25,7 @@ go to  ( https://github.com/Sophieali1111/Eridian_companion_bot_Eleni._./blob/ma
 <img width="1410" height="2000" alt="PROJECT (5)" src="https://github.com/user-attachments/assets/a780b9e0-67e6-488f-b549-9e2316581eef" />
 
 # BOM
-
-# (links see - https://github.com/Sophieali1111/Eridian_companion_bot_Eleni._./blob/main/BOM/BOM%20-%20Sheet1%20(5).csv )
+# (links see -  https://github.com/Sophieali1111/Eridian_companion_bot_Eleni._./blob/main/BOM/BOM.csv  )
 
 # Wiring 
 Features an esp32 dev board and charges on a 3.3 charging board with a lipo battery and a step up powering components - 10 micro servos, OLED display, temp/Humidity sensor, touch sensor and also some resistors, schottky and a capacitor. seen by wiring diagram below
