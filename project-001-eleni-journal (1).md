@@ -45,9 +45,6 @@ i am a bit scared but thing i can do it
 ![WhatsApp Image 2026-05-02 at 12.28.23 PM.jpeg](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTAyODcsInB1ciI6ImJsb2JfaWQifX0=--b1af894696a9b7f4b64fffa71f80db6a3c365cc1/WhatsApp Image 2026-05-02 at 12.28.23 PM.jpeg)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/b116e796-e875-46de-8708-c1eef4bc7bfa/video.mp4
 
 ## Entry 2
 - ID: 5102
@@ -74,9 +71,6 @@ Crayon cad
 Sketch the design how the robot looks - then after other sub prototypes do final CAD 
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/564772e5-a5a6-4e26-b105-8c1abf0625f5/video.mp4
 
 ## Entry 3
 - ID: 5277
@@ -90,9 +84,6 @@ Today was designing and failing, i have started to wonder if my CAD skills are a
 ![Screenshot 2026-05-03 225322.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTA5NzEsInB1ciI6ImJsb2JfaWQifX0=--49797d47698db4c91818754c28ea6d1ec5c45995/Screenshot 2026-05-03 225322.png)
 Sign out day 2 :)))) i hate onshape just kidding i am going crazy from cad . This is teaching me quite a bit, ig failure really is the mother of success 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/68584a5a-3f28-4b59-a9ba-fb1dd6f52fb1/video.mp4
 
 ## Entry 4
 - ID: 5417
@@ -106,9 +97,6 @@ Finished CAD part of the protypes, looked at how to do the codding for the servo
 ![Screenshot 2026-05-03 225245.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTEzMDIsInB1ciI6ImJsb2JfaWQifX0=--a488a3338cabc54f5df701ae6b00f8c22a43f3c1/Screenshot 2026-05-03 225245.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/4eecdc73-b835-4b4d-b26e-c4d6a9defbb2/video.mp4
 
 ## Entry 5
 - ID: 5420
@@ -133,9 +121,7 @@ Feeling good
 :))))
 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/3a810118-6d73-424e-a919-6b7e729f117d/video.mp4
 
 ## Entry 6
 - ID: 5706
@@ -152,9 +138,6 @@ In this session i fixed the cad to make sure that the part would 3D print, it wa
 ![WhatsApp Image 2026-05-04 at 10.15.53 PM.jpeg](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIwMDIsInB1ciI6ImJsb2JfaWQifX0=--07417dde85652e1515d7b6e1b00c52b28de3b912/WhatsApp Image 2026-05-04 at 10.15.53 PM.jpeg)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/84d32075-5a02-48cd-9473-73e01815b46d/video.mp4
 
 ## Entry 7
 - ID: 5888
@@ -180,10 +163,6 @@ no unfortanatly the circuit didnt work the prototype kinda failed
 ![WhatsApp Image 2026-05-07 at 10.43.01 PM.jpeg](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTIzOTgsInB1ciI6ImJsb2JfaWQifX0=--13581c0130ab9392471f02c9680c30660783d068/WhatsApp Image 2026-05-07 at 10.43.01 PM.jpeg)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/c70993fe-9706-4090-aa81-6ae55401da43/video.mp4
-- https://lookout.hackclub.com/api/media/a21d3da6-e5a6-42df-8365-eede5a036478/video.mp4
 
 ## Entry 8
 - ID: 6252
@@ -202,11 +181,7 @@ leart about PCB thats all sign outttt
 ![WhatsApp Image 2026-05-07 at 10.43.01 PM.jpeg](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMyNjcsInB1ciI6ImJsb2JfaWQifX0=--af203897f56b7eca5b6f5de5b97dfb96700eacae/WhatsApp Image 2026-05-07 at 10.43.01 PM.jpeg)
 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/3fc49679-984a-49f3-a962-fa34737891b8/video.mp4
-- https://lookout.hackclub.com/api/media/6db99cdb-9c8e-4fa8-af83-ce03f83b7749/video.mp4
-- https://lookout.hackclub.com/api/media/4ae4ac54-467c-4b80-ac47-064109fa94c2/video.mp4
 
 ## Entry 9
 - ID: 6574
@@ -220,10 +195,7 @@ more cad yayyyyyyyyyyyy. fixed small things for example the ledges on the servo 
 ![Screenshot 2026-05-11 212913.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQxNjAsInB1ciI6ImJsb2JfaWQifX0=--b83370157b7aef94f67c6a65c35c070d0cec56e7/Screenshot 2026-05-11 212913.png)
 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/5237ac76-0736-4e88-a746-f53826c7f1d9/video.mp4
-- https://lookout.hackclub.com/api/media/11d0844d-fb95-4795-854f-c1e6b5b5959a/video.mp4
 
 ## Entry 10
 - ID: 7055
@@ -236,9 +208,6 @@ added a battery pack and looked at how to cad wires its so complicated tbh, idk 
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU0NzUsInB1ciI6ImJsb2JfaWQifX0=--7f2d1a1e913f1040acde1f3268e9ef0e94b81f18/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/dc1c2fb0-c8e5-4111-bd47-294e4c146921/video.mp4
 
 ## Entry 11
 - ID: 7065
@@ -253,9 +222,6 @@ i found a way to do it the little screen, it will be a esp32 connected to a OLED
 ![Screenshot 2026-05-14 220312.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU1MDAsInB1ciI6ImJsb2JfaWQifX0=--36d1047fa313b81831682b6133accec53a350d1d/Screenshot 2026-05-14 220312.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/6fa73256-57b0-401e-a9df-5908fedb30ff/video.mp4
 
 ## Entry 12
 - ID: 7246
@@ -272,9 +238,7 @@ decided the leg need a bit of changing nvm i think change alot of the work
 ![Screenshot 2026-05-15 224103.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4MzIsInB1ciI6ImJsb2JfaWQifX0=--b49d7d8a068a2c3c206a0c984a9d29c2c486e1b0/Screenshot 2026-05-15 224103.png)
 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/adb0ece9-1685-4ba3-9093-d0fdc11f0f6b/video.mp4
 
 ## Entry 13
 - ID: 7340
@@ -297,9 +261,7 @@ decided the leg need a bit of changing
 ![Screenshot 2026-05-16 100610.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYwNTEsInB1ciI6ImJsb2JfaWQifX0=--4a3e271ca55a039971ec2941dfd8b16ec6938e40/Screenshot 2026-05-16 100610.png)
 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/ff10111a-0478-49c4-9d46-e2ef65a66bf0/video.mp4
 
 ## Entry 14
 - ID: 7406
@@ -322,9 +284,6 @@ what it looks like rn
 ![Screenshot 2026-05-16 222653.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYxOTIsInB1ciI6ImJsb2JfaWQifX0=--c5fd995f0f56a24080db1dded17e33f78dd74408/Screenshot 2026-05-16 222653.png)
 okok byeeee
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/550534d5-5e4a-40dd-b792-7da30bde9d28/video.mp4
 
 ## Entry 15
 - ID: 7600
@@ -337,9 +296,6 @@ figure out the mounting for the screen on the top decided i was gona do two part
 ![Screenshot 2026-05-17 223721.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY1ODAsInB1ciI6ImJsb2JfaWQifX0=--0d9f6b052de99f0ac486a79f833ab06a3c66f499/Screenshot 2026-05-17 223721.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/0b78c4d1-7695-4633-82e0-5db8727aaef0/video.mp4
 
 ## Entry 16
 - ID: 7602
@@ -351,9 +307,6 @@ figure out the mounting for the screen on the top decided i was gona do two part
 ![Screenshot 2026-05-17 225122.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY1ODgsInB1ciI6ImJsb2JfaWQifX0=--fddce346307a0f8fd5eda9af8be98ed1beba1652/Screenshot 2026-05-17 225122.png)
 like so the other part is coming in like that into the holes its has a chamfer to fit better and i am hoping the tollerance be fine but at the end will do a tollerance check + cad check with somebody like a friend or smth idk to check everything could be manufactored. but that is all i just had to finish that part so my hands dont itch yayyyy got a lot more to do tmr do all the other parts that the top needs and the day after do all the wiring possibily 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/10da1c24-23bf-44d2-a72d-0cddf554ae54/video.mp4
 
 ## Entry 17
 - ID: 7776
@@ -375,9 +328,6 @@ i added all the parts exept the battery do next time and also i think i need to 
 ![Screenshot 2026-05-18 213814.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTY5NzcsInB1ciI6ImJsb2JfaWQifX0=--7ef3b6c0e56f2fd6d2475f8fe9efed272dae04c8/Screenshot 2026-05-18 213814.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/ccee888a-1bf4-45c2-87f9-6c981c51179d/video.mp4
 
 ## Entry 18
 - ID: 7954
@@ -391,9 +341,6 @@ I finalised the rough cad today, there is so much change and improvments i alrea
 ![Screenshot 2026-05-19 221329.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTczNjYsInB1ciI6ImJsb2JfaWQifX0=--3b4434f04d68acf693522d8ca2321e1a796cbf80/Screenshot 2026-05-19 221329.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/673078bc-b124-4b0b-bf5b-3277a81ca925/video.mp4
 
 ## Entry 19
 - ID: 8149
@@ -412,9 +359,6 @@ just downloaded blender to render the cad, and possibily learn it.:)))
 also read through a lot of the documentation today, bravo on that 
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/82716f0e-0e5d-4fea-a56b-328f28673736/video.mp4
 
 ## Entry 20
 - ID: 8300
@@ -433,9 +377,7 @@ omg there is this mini one of an esp 32 this way i can just decrease the space u
 ![Screenshot 2026-05-21 213918.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTgxNTQsInB1ciI6ImJsb2JfaWQifX0=--649663bbc1651e7d7368b141af23f925c8b47061/Screenshot 2026-05-21 213918.png)
 this part so next sesh just gona finish altering with that and make a BOM !!!
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/54ef24fb-b857-498f-a4a4-f374fae2b72c/video.mp4
 
 ## Entry 21
 - ID: 8388
@@ -454,9 +396,7 @@ and the large batteries interfer with the mounting
 ![Screenshot 2026-05-22 085539.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTgzNTUsInB1ciI6ImJsb2JfaWQifX0=--838f963a62378bec7eada11185b1592086cec6f1/Screenshot 2026-05-22 085539.png)
 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/291ce1d8-e90c-4853-a390-c7c62ab0a456/video.mp4
 
 ## Entry 22
 - ID: 8459
@@ -473,9 +413,7 @@ put things into folders and organised
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg0ODcsInB1ciI6ImJsb2JfaWQifX0=--cb550305953a3d2fa98a18db439c50daea027ce1/image.png)
 now imma log out 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/6337cac6-4d01-4a26-af60-b55702d6b89b/video.mp4
 
 ## Entry 23
 - ID: 8632
@@ -497,9 +435,7 @@ the battery should run 5 v across the entire robot since all the components coul
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg4OTQsInB1ciI6ImJsb2JfaWQifX0=--99db08a82e90e4ccd9e1a3675daa03eee7d15f12/image.png)
 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/b28f7801-d12c-4c7c-bb94-5d857cb088fc/video.mp4
 
 ## Entry 24
 - ID: 8642
@@ -513,9 +449,7 @@ The design is now upgraded because of cost and packaging resons, the part in the
 ![Screenshot 2026-05-23 221527.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg5MjYsInB1ciI6ImJsb2JfaWQifX0=--1eb19cc92067040818a880ee04bf4b4bc895aa2f/Screenshot 2026-05-23 221527.png)
 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/eacfe74d-fc3a-4477-accc-4a62a176b38c/video.mp4
 
 ## Entry 25
 - ID: 8852
@@ -532,9 +466,7 @@ design choices are gona be listed below
 - the lithium battery is gona be mounted at the top, why? because it is convinent and um if it blows up well no that much gets damadged, just kidding hahaha sorry not funny no because if it gets hot the hot air travels up and has somwhere to go and not mess arounf with other electronics :) nvm scrap that its goona be at the bottem easier mounting and also the touchpad needs somwhere to go ok done 
 - next part is the esp 32 dev board probs gona sit right on top of the battery 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/bebac204-0341-4206-94e8-4d83c71e8a57/video.mp4
 
 ## Entry 26
 - ID: 9075
@@ -551,10 +483,6 @@ i might change somthing i think the reviews for the TP charging is really bad an
 the part studio cad is all done now next i just have to assemble and finlise parts of cad eg. wiring considerations cadding , efficaiantcy 
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjAwOTksInB1ciI6ImJsb2JfaWQifX0=--9b53070109ee9a4e4314518e3ede2794a30f6f36/image.png)
 
-
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/80a85884-6157-4b65-984f-dd3344564b66/video.mp4
 
 ## Entry 27
 - ID: 9330
@@ -586,9 +514,7 @@ Ya so in this session have finished the assembily just need to contact people an
 Had a look on what istill had to do and the planning how do do it in the 26-7  hours i still have left ;000
 the  firmwear, the readme and the little page thing :)))
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/25ffc7b7-8de9-4b84-a3a4-6d7e4610cd64/video.mp4
 
 ## Entry 28
 - ID: 9882
@@ -609,11 +535,6 @@ clip just made
 reference off the 3D print
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/7d3d8b77-6f20-428e-9521-09993cb39f91/video.mp4
-- https://lookout.hackclub.com/api/media/4be56f25-3b5f-4cc0-8fff-49e8cd3c4ffb/video.mp4
-- https://lookout.hackclub.com/api/media/2679d054-cd05-47b9-b8f3-fdeb65ef79ae/video.mp4
 
 ## Entry 29
 - ID: 9903
@@ -635,9 +556,6 @@ Refrences  inspo
 i am gona spend a bit on my zine and before that i need to finlise my cad write what i am gona write and have the firmware and problems fixed 
 o also for the pictures the electrical wiring diagram 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/19a52c46-21ac-422d-a8eb-ab601e89138c/video.mp4
 
 ## Entry 30
 - ID: 10114
@@ -656,9 +574,7 @@ and worked on readme and git hub a bit
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjI3NjgsInB1ciI6ImJsb2JfaWQifX0=--dceaf4b4c4e35fa40401a3a867b88c11a4c506fe/image.png)
 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/dba5ebde-7f40-4055-90e5-0f1274632856/video.mp4
 
 ## Entry 31
 - ID: 10124
@@ -674,9 +590,6 @@ more change on the zine:)))
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjI4NjksInB1ciI6ImJsb2JfaWQifX0=--ea6a18c34e73f8e34c7634915ea97372d03e8a19/image.png)
 Next sesh figure out wiring and also have a cad review ooooo before then put in the switch part 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/f75c8ded-fc43-4f5c-8f68-619fd22ce699/video.mp4
 
 ## Entry 32
 - ID: 10368
@@ -690,9 +603,7 @@ Added a switch part today it acts as  saftey safe gaurd and also just to same el
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjM1MDUsInB1ciI6ImJsb2JfaWQifX0=--e1ab23c3343d6c8f2513d67c2e09445896164a74/image.png)
 ya and my laptop kinda broke down so i was searching how to fix my fan 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/28d83f7c-793f-48d5-9c71-0d379b23773a/video.mp4
 
 ## Entry 33
 - ID: 10371
@@ -706,9 +617,6 @@ Couldnt find a step up modoule cad so just did a rough cad for dimentions, and p
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjM1MTUsInB1ciI6ImJsb2JfaWQifX0=--7c784720b3354219e5db83f47d0282dcadf54a00/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/36791081-ef4e-4aff-b7e9-e0e4cf0ca52c/video.mp4
 
 ## Entry 34
 - ID: 10643
@@ -742,10 +650,7 @@ and then work on firmware 4 h esta
 ![outside layer.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQyNjksInB1ciI6ImJsb2JfaWQifX0=--4be350315b03713b2f8c9531a83c7815adcae388/outside layer.png)
 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/5be769e9-2e0a-4887-b6d4-ceccc9b896ed/video.mp4
-- https://lookout.hackclub.com/api/media/0b30c83a-2e7d-439d-93bb-c7d203cf445f/video.mp4
 
 ## Entry 35
 - ID: 10871
@@ -764,9 +669,6 @@ I just ran a cad review with a frined and we found some problems
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ4MDAsInB1ciI6ImJsb2JfaWQifX0=--2ed714db0b7e38e8a28b4fbfe6fa3fba69c1f60a/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/6b0a3979-2a6f-4db2-80c3-269a74681200/video.mp4
 
 ## Entry 36
 - ID: 10872
@@ -781,9 +683,6 @@ Made the power circuitry work
 Added schottky diode to prevent servo current spikes from damaging/browning out esp32.
 The battery might need a bit more capacity and the power delivery circuitry might need to be reworked. The pins don't exactly match the pinout on the esp32 because I had trouble finding a consistent pinout, but I checked that there are enough of each pin type to get all the connections that are needed.
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/7f1717bc-fea0-49d5-8daa-2dda43bf08f9/video.mp4
 
 ## Entry 37
 - ID: 11024
@@ -806,9 +705,7 @@ everything should be done exept not connected some pins to the esp but i tried r
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjUyODAsInB1ciI6ImJsb2JfaWQifX0=--598f101ab7276a555da34be44f35f6799616107b/image.png)
 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/c431f37f-bf83-4dd5-967a-007bbf0f294f/video.mp4
 
 ## Entry 38
 - ID: 11368
@@ -827,11 +724,7 @@ o also have to get a start on the firmware
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjYzMzAsInB1ciI6ImJsb2JfaWQifX0=--096172129054a4cbc4534e2d8070628f3a6debd7/image.png)
 that is end of journel today :) so tired 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/595a6de6-7f98-4a8e-a6e2-527e60ffb4ee/video.mp4
-
-## Entry 39
 - ID: 11830
 - Author: studing.sophia
 - Created At: 2026-06-05T13:12:48Z
@@ -847,9 +740,6 @@ and now there is the elecronics pin ver of it so what has changed a few parts
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjc2MTEsInB1ciI6ImJsb2JfaWQifX0=--17f3300151cc5cecd0c129feefd6e2aa7793a759/image.png)
 i am gona look through it added to bom and to new cad. and please have a look at firm ware and check off boxes 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/2c576bda-e0e0-481d-8e03-b5c0d9e3fa22/video.mp4
 
 ## Entry 40
 - ID: 11987
@@ -867,9 +757,7 @@ o and also the mounting for the top slider and thought about how to do it so mad
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjgwODIsInB1ciI6ImJsb2JfaWQifX0=--a261fbe2e946c2c8878ed3dbbe70e4bc09a4d8e6/image.png)
 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/1abbd579-947f-4bf4-92f9-a30ed94f8856/video.mp4
 
 ## Entry 41
 - ID: 12010
@@ -887,9 +775,7 @@ also i now have a refrences docuent that i def should have started building from
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjgxMzYsInB1ciI6ImJsb2JfaWQifX0=--ef6e94f89bfdf9adb2691d7d0987b91802d29827/image.png)
 
 
-### Recording Links
 
-- https://lookout.hackclub.com/api/media/a5714fec-09a0-4e22-a337-a4265489b1f6/video.mp4
 
 ## Entry 42
 - ID: 12290
@@ -903,9 +789,6 @@ Today was a big firmware day foun dlots of libaries refrences and ext. asked clu
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjg4MTcsInB1ciI6ImJsb2JfaWQifX0=--f2e206109d9d1800268c60cad18c48e29e68cfb5/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/2e7b4db0-d978-493c-8695-ece8ebeabe3c/video.mp4
 
 ## Entry 43
 - ID: 13434
@@ -929,9 +812,6 @@ Today was a big firmware day foun dlots of libaries refrences and ext. asked clu
 ![circuit (1).png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE4MzAsInB1ciI6ImJsb2JfaWQifX0=--dc6864128f9f383d46c04e3b6589bc46fdec5d50/circuit (1).png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/b8ae893a-9a93-4fc7-bcb0-bdb4da9bcc72/video.mp4
 
 ## Entry 44
 - ID: 13451
@@ -944,9 +824,6 @@ Looked at esp pinout changed a few pinouts and the wiring, My circuit is good bu
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE4NTYsInB1ciI6ImJsb2JfaWQifX0=--c6ee868c1c541c012bde8a628ddf54f883e7811b/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/5a500f92-7206-4507-a301-a91d6831cd1b/video.mp4
 
 ## Entry 45
 - ID: 13605
@@ -972,9 +849,6 @@ also trying to get the servo leg to mount
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIyMzIsInB1ciI6ImJsb2JfaWQifX0=--85344652a287aed7125da3298a01c8a97686a49b/image.png)
 the wing 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/278d0221-eff8-4f9f-b444-00c84a9933f5/video.mp4
 
 ## Entry 46
 - ID: 13638
@@ -995,9 +869,6 @@ andthis touch pad didnt fit ontop so
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzIzMDksInB1ciI6ImJsb2JfaWQifX0=--2096bf50aa78e9d6795095fa138bde6c5339f839/image.png)
 oh no there is still lots of cad:((( oh well more work ig 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/c45d5065-f615-4c92-bc0d-3b77f19b3819/video.mp4
 
 ## Entry 47
 - ID: 13717
@@ -1014,8 +885,3 @@ today done lots of firm ware added a lot to the git hub retro including all new 
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzI1MjYsInB1ciI6ImJsb2JfaWQifX0=--83654b16606838bf05e78947aaada41703a5326f/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/15021087-f789-4bc4-b94a-47abec32b50d/video.mp4
-- https://lookout.hackclub.com/api/media/2972ac28-ccd6-4fee-a86f-c9b6fe967eff/video.mp4
-- https://lookout.hackclub.com/api/media/a0b4366e-da9a-4db6-8359-b3ba7aaf356a/video.mp4
