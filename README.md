@@ -20,8 +20,7 @@ Well I really liked the movie project hail marry and i understand that everyone 
 
 
 # Zine page 
-
-<img width="1410" height="2000" alt="PROJECT (4)" src="https://github.com/user-attachments/assets/6db1324d-1c3d-43fd-ac97-7c0490efc515" />
+<img width="1410" height="2000" alt="PROJECT (5)" src="https://github.com/user-attachments/assets/a780b9e0-67e6-488f-b549-9e2316581eef" />
 
 # BOM
 | Product name                                                                                             | Product discription                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Product link | product unit price (AUD) | Product amount(AUD)                 | Product application in project                                                                                                                             | shipping cost  |
