@@ -94,9 +94,15 @@ Jumper wires (owned)
   <img width="523" height="565" alt="image" src="https://github.com/user-attachments/assets/3461b746-b5e5-416c-91f9-5fb75e7cb08d" />
   <img width="324" height="505" alt="image" src="https://github.com/user-attachments/assets/6af96205-acba-4ee5-b81d-2adc1b1ab714" />
 
+  From steps above assemble all electronics parts the follow the wiring diagram below and wire the electronics 
+  <img width="1120" height="760" alt="circuit (4)" src="https://github.com/user-attachments/assets/dc487264-1cc8-4ab8-a85d-33f25f545db9" />
+  
+
+after doing steps above mount electrionics using the diagram below 
+<img width="1120" height="760" alt="circuit (4)" src="https://github.com/user-attachments/assets/92e0965c-eb78-4bc3-bfce-fd7a2bb120b3" />
 
 
-
+Finally slide the lid together it should just be a click in and start working with the firmware 
 
 
 
