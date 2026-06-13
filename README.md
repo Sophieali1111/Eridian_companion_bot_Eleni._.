@@ -46,6 +46,13 @@ Features an esp32 dev board and charges on a 3.3 charging board with a lipo batt
 <img width="1120" height="760" alt="circuit (4)" src="https://github.com/user-attachments/assets/ee3d15ec-f65c-48dc-b358-9f17614babf9" />
 
 # CAD
+<img width="9923" height="7009" alt="robot assem (9)" src="https://github.com/user-attachments/assets/150d629c-5872-4df4-bff2-a2ea1e6fb997" />
+<img width="9923" height="7009" alt="robot assem (10)" src="https://github.com/user-attachments/assets/08b87c3d-8780-44ab-8970-ff4521431f80" />
+<img width="9923" height="7009" alt="robot assem (11)" src="https://github.com/user-attachments/assets/5a6a824a-b44d-498c-9752-9ccb784cb63a" />
+<img width="9923" height="7009" alt="Assembly 1" src="https://github.com/user-attachments/assets/527aa573-8000-4ac7-9cda-28b5b1e99959" />
+<img width="9923" height="7009" alt="robot assem (12)" src="https://github.com/user-attachments/assets/a947e478-4ffb-43e6-b545-6709ae106573" />
+
+
 
 
 
