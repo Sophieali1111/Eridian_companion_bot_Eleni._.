@@ -61,6 +61,8 @@ Link to leg assem- https://cad.onshape.com/documents/7348645cd8dd215efcb64763/w/
 - go to ( https://github.com/Sophieali1111/Eridian_companion_bot_Eleni._./blob/main/Firm%20ware%20/firmware )
 - refrences and liabaries used go to                                                                                                                       ( https://github.com/Sophieali1111/Eridian_companion_bot_Eleni._./blob/main/references/libraries%20%2B%20inspo%20%2B%20acknowledgement )
 
+# PCB 
+project doesnt require pcb
 
 
 
