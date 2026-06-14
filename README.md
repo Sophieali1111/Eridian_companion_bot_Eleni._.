@@ -49,11 +49,12 @@ Features an esp32 dev board and charges on a 3.3 charging board with a lipo batt
 <img width="1120" height="760" alt="circuit (4)" src="https://github.com/user-attachments/assets/ee3d15ec-f65c-48dc-b358-9f17614babf9" />
 
 # CAD
-<img width="9923" height="7009" alt="robot assem (9)" src="https://github.com/user-attachments/assets/150d629c-5872-4df4-bff2-a2ea1e6fb997" />
-<img width="9923" height="7009" alt="robot assem (10)" src="https://github.com/user-attachments/assets/08b87c3d-8780-44ab-8970-ff4521431f80" />
-<img width="9923" height="7009" alt="robot assem (11)" src="https://github.com/user-attachments/assets/5a6a824a-b44d-498c-9752-9ccb784cb63a" />
-<img width="9923" height="7009" alt="Assembly 1" src="https://github.com/user-attachments/assets/527aa573-8000-4ac7-9cda-28b5b1e99959" />
-<img width="9923" height="7009" alt="robot assem (12)" src="https://github.com/user-attachments/assets/a947e478-4ffb-43e6-b545-6709ae106573" />
+<img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/aa8f19ea-433b-4bf7-8a63-d8812b596622" />
+<img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/f87412f3-a210-4354-a091-c969497b78c5" />
+<img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/5b82ac0a-fec9-4113-9f50-374aa939178a" />
+<img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/d5ce5080-aa2f-4a75-90d5-010114ab2a43" />
+<img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/30c43549-8147-4342-9179-c3c30562b8a2" />
+
 Link to elenie assem- https://cad.onshape.com/documents/7f5fa5713a86b606455b3bf3/w/7087e430869ee173fcb78bb9/e/d070c0009b7c71805278058f
 Link to leg assem- https://cad.onshape.com/documents/7348645cd8dd215efcb64763/w/6fcbcbdc9c87f3b11f2a5ccc/e/03a8affa70bfcf8abb9d1197
 
