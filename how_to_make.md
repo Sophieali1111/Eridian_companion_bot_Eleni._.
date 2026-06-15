@@ -7,22 +7,23 @@
   
 <img width="378" height="459" alt="image" src="https://github.com/user-attachments/assets/55950e5d-6d4d-4673-83b9-966cc7e274a2" />
 <img width="669" height="550" alt="image" src="https://github.com/user-attachments/assets/14b0672e-71c5-4380-a207-c9be15bd5ae9" />
+  
 # electronic components 
-- all brough online and shipped in can refrence the BOM
-- including :
-ESP32 development board
-LiPo battery 3.7V 1500mAh
-TP4056 charging module
-Capacitive touch sensor
-9g micro servos ×10
-OLED SSD1306
-AAA batteries
-Toggle switch
-DHT22 sensor
-10k resistors
-Battery box 4×AA
-5V boost converter
-Jumper wires (owned)
+
+all brough online and shipped in can refrence the BOM including : 
+- ESP32 development board
+- LiPo battery 3.7V 1500mAh
+- TP4056 charging module
+- Capacitive touch sensor
+- 9g micro servos ×10
+- OLED SSD1306
+- AAA batteries
+- Toggle switch
+- DHT22 sensor
+- 10k resistors
+- Battery box 4×AA
+- 5V boost converter
+- Jumper wires (owned)
 # mounting 
 - servos
   leg 3d print has a slot for the wings that come with the servos and then the bolt is bolted through the hole into the servo
