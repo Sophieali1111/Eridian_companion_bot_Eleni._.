@@ -26,7 +26,7 @@ all brough online and shipped in can refrence the BOM including :
 - Jumper wires (owned)
 # mounting 
 - servos
-  leg 3d print has a slot for the wings that come with the servos and then the bolt is bolted through the hole into the servo
+  leg 3d print has a slot for the wings that come with the servos and then the bolt is bolted through the hole into fromthe 3D print into the servo side
   
   <img width="722" height="573" alt="image" src="https://github.com/user-attachments/assets/0ce3dfc7-67f0-4ddb-901e-c4cad88d4bcd" />
   <img width="692" height="535" alt="image" src="https://github.com/user-attachments/assets/20328161-9f86-4995-9b4c-90c204cc306d" />
@@ -36,7 +36,7 @@ all brough online and shipped in can refrence the BOM including :
 
   
 - DHT22
-  3d printed slot and then 3d printed lid with guilds 
+  3d printed slot and then 3d printed lid with guilds and friction/ gravity 
   
   <img width="522" height="428" alt="image" src="https://github.com/user-attachments/assets/07f67b91-8c1a-4324-8a5f-b920ebe60b55" />
   <img width="601" height="519" alt="image" src="https://github.com/user-attachments/assets/6afbd7c9-2ca9-4114-a1d4-75f2ca0c4232" />
@@ -45,7 +45,7 @@ all brough online and shipped in can refrence the BOM including :
 
   
 -OLED
-  3d printed part in main and also a little tab
+  3d printed part in main and also a little tab to hold (separte part)it inplace there is a removed bit to let the pins come through aswell 
   
   <img width="692" height="535" alt="image" src="https://github.com/user-attachments/assets/8e43d1d6-9500-4965-9db8-42db2989d03c" />
   <img width="448" height="225" alt="image" src="https://github.com/user-attachments/assets/0afa1822-29ea-49ed-b5e2-5dcf5d1ce553" />
@@ -54,13 +54,13 @@ all brough online and shipped in can refrence the BOM including :
 
   
 -esp32 dev
-  3D printed slots
+  3D printed slots on the side on the sobot so just plop it in 
   <img width="728" height="560" alt="image" src="https://github.com/user-attachments/assets/bd71ed00-e9f0-4887-9fb5-1c9d8800287f" />
   <img width="292" height="221" alt="image" src="https://github.com/user-attachments/assets/e2b8f7aa-5309-43bf-8779-515e62931f9a" />
 
   
 - lipo battery
-  at the bottem of the case with a little lid
+  at the bottem of the case with a little lid put in battery then slide lid on
   
   <img width="427" height="350" alt="image" src="https://github.com/user-attachments/assets/3f47ae7f-1686-4ced-aa6b-71296f3e3daa" />
   <img width="579" height="232" alt="image" src="https://github.com/user-attachments/assets/00b14186-c5e1-4ff1-9870-8686e7df8384" />
